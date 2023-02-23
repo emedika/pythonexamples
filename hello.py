@@ -1,2 +1,2 @@
 print ("Hellohello")
-print("hihi")
+print("hi")
